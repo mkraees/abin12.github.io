@@ -537,7 +537,8 @@ header .intro-text {
 
 }
 .timebox p{
-  color: black;
+  /*color: black;*/
+  color: #1f386e;
 }
 
 /* slider */
